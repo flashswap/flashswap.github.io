@@ -6,38 +6,38 @@
       }
 
       .cls-2 {
-        fill: #662d91;
+        fill: #0270D7;
       }
 
       .cls-3 {
-        fill: #9e1f63;
+        fill: #0270D7;
       }
 
       .cls-4 {
-        fill: #ff5000;
+        fill: #0270D7;
       }
 
       .cls-5 {
-        fill: #fff;
-        stroke: #ff5000;
+        fill: #0270D7;
+        stroke: #0270D7;
         stroke-miterlimit: 10;
         stroke-width: 2px;
       }
 
       .cls-6 {
-        fill: #3b3735;
+        fill: #0270D7;
       }
 
       .cls-7 {
-        fill: #1f1d19;
+        fill: #0270D7;
       }
 
       .cls-8 {
-        fill: #959190;
+        fill: #0270D7;
       }
 
       .cls-9 {
-        fill: #403c3a;
+        fill: #0270D7;
       }
 
       .cls-10 {
